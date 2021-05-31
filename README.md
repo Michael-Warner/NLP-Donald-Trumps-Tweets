@@ -1,8 +1,8 @@
-# Basic NLP-Donald Trump's Tweets from 2009 to 2020 with PySpark
+# Donald Trump's Tweet analysis from 2009 to 2020 with PySpark
 ![Donald Trump Twitter](https://s.france24.com/media/display/ea55fa2e-d5f7-11ea-9e43-005056a964fe/w:1280/p:16x9/USA-TRUMP%20%282%29.webp)
 
 ## Purpose:
-The purpose of this project was to analysis Donald Trump's use of Twitter and to analize the sentiment and hot topics of Donald Trump’s tweets from 2009 to November 2020 through Natural Languaging Processing using spark.
+The purpose of this project was to analysis Donald Trump's use of Twitter and to analize the sentiment and hot topics of Donald Trump’s tweets from 2009 to November 2020 through Natural Languaging Processing using PySpark.
 
 ## Dataset:
 This dataset contains 58681 Donald Trump's tweets from 2009 to November 19th, 2020 in the form of a text file (trump_tweets.txt).    
